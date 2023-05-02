@@ -1,16 +1,119 @@
+
+Skip to content
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+@Browniii
+Browniii /
+Enmity-CustomBG
+Public
+
+Cannot fork because you own this repository and are not a member of any organizations.
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+Enmity-CustomBG/
+in
+main
+
+1
+
 {
+
+2
+
   "name": "Furry owo",
+
+3
+
   "description": "Yeah LOL",
+
+4
+
   "version": "1.0",
+
+5
+
   "authors": [
+
+6
+
     {
+
+7
+
       "name": "Brownie",
+
+8
+
       "id": "521302701443776514"
+
+9
+
     }
+
+10
+
   ],
+
+11
+
   "background": {
+
+12
+
     "blur": 0.1,
+
+13
+
     "url": "https://media.discordapp.net/attachments/666255146644275200/1102887116234563654/85844855_p0.png",
+
+14
+
     "alpha": 1.0
+
+15
+
   }
+
+16
+
 }
+
+17
+
+​
+
+@Browniii
+Commit changes
+Commit summary
+Optional extended description
+Commit directly to the main branch.
+Create a new branch for this commit and start a pull request. Learn more about pull requests.
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
